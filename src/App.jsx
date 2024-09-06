@@ -28,9 +28,8 @@ function App() {
                 <WalletModalProvider>
                     <WalletMultiButton />
                     <br />
-                    <br /><br />
+                    <br />
                     <Airdrop/>
-                    
                 </WalletModalProvider>
             </WalletProvider>
         </ConnectionProvider>
